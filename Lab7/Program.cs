@@ -967,6 +967,7 @@ List<Clothes> ReadFromFileJson(string path)
     }
     return clots;
 }
+//read
 
 int N, reviews = 0;
 bool start = false, end=false;
