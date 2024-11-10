@@ -921,6 +921,7 @@ List<Clothes> ReadFromFileCSV(string path, int N)
     }
     return clots;
 }
+//read
 void SaveToFileJson(List<Clothes> cloths, string path)
 {
     try
