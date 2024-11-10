@@ -940,6 +940,7 @@ void SaveToFileJson(List<Clothes> cloths, string path)
         Console.WriteLine(ex.Message);
     }
 }
+//save
 List<Clothes> ReadFromFileJson(string path)
 {
     List<Clothes> clots = new();
