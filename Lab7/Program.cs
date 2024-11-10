@@ -896,6 +896,7 @@ void SaveToFileCSV(List<Clothes> cloths, string path)
         Console.WriteLine(ex.Message);
     }
 }
+//method save
 List<Clothes> ReadFromFileCSV(string path, int N)
 {
     List<Clothes> clots = new List<Clothes>();
