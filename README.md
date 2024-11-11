@@ -101,6 +101,7 @@ Readme.md додаємо!);
 
 15.	Для гілки master вивести історію комітів.
 ![ Історія комітів для гілки master (main)](https://github.com/2Maksym2/lab7/blob/main/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-11%20155442.jpg)
+
 **GitHub:**
 1.	Створити обліковий запис для GitHub (якщо він відсутній!).
 
